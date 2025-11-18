@@ -3,19 +3,14 @@
 
 ## Seja muito bem-vindo(a)!
 
-Sou especializado na criação de componentes web com **HTML**, **CSS** e **JavaScript**, bem como em sites usando **Frameworks** e Bibliotecas, criando **sites profissionais**, construo websites modernos e criativos que ajudam empresas e negócios a se destacarem na internet. Com formação em **Ciência da Computação**, construí uma base técnica sólida que se soma aos desenvolvimentos práticos em anos de **experiência**.
+Sou desenvolvedor Full Stack com foco na criação de interfaces modernas usando HTML, CSS, JavaScript e frameworks. Formado em Ciência da Computação, atuo em todas as etapas do projeto — de wireframes ao produto final — priorizando usabilidade e performance.
 
-Minhas atuações passam por cada etapa do projeto de desenvolvimento, desde **wireframes** e protótipos até interfaces finalizadas, sempre com foco em usabilidade e performance.
+Tenho experiência em HTML, CSS, JavaScript, PHP, Python e SQL. Trabalho com design responsivo, manipulação de DOM e prototipação no Figma. Possuo inglês A2, permitindo colaborar em projetos de empresas multinacionais.
 
-Como desenvolvedor Full-Stack, tenho experiência nas principais linguagens e tecnologias web, como **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**, **SQL**, dentre outras...
+Estou sempre aprendendo novas tecnologias para entregar mais valor em cada projeto.
 
-Além do português, tenho **inglês** no nível A2 o que me possibilita atuar em projetos de empresas Multinacionais e colaborar com equipes fora do Brasil.
+### 💻 Minhas Habilidades
 
-Minhas skills incluem manipulação do **DOM**, design responsivo **(RWD)**. No design, utilizo ferramentas como **Figma** e **Photopea**, criando interfaces que realmente facilite a usabilidade do usuário no sistema web.
-
-E sempre buscando conhecimento para os frameworks mais modernos para aumentar as minhas skills, com a visão para que eu possa sempre melhorar e realizar a entrega de valor esperada em cada projeto.
-
-### 💻 Principais tecnologias
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-efd81d.svg?style=for-the-badge&logo=javascript&logoColor=fff)
 ![GIT](https://img.shields.io/badge/GIT-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
