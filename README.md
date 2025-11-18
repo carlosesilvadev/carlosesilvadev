@@ -3,9 +3,9 @@
 
 ## Seja muito bem-vindo(a)!
 
-Sou desenvolvedor Full Stack com foco na criação de interfaces modernas usando HTML, CSS, JavaScript e frameworks. Formado em Ciência da Computação, atuo em todas as etapas do projeto — de wireframes ao produto final — priorizando usabilidade e performance.
+Sou desenvolvedor Full Stack com foco na criação de interfaces modernas usando **HTML**, **CSS**, **JavaScript** e **frameworks**. Formado em **Ciência da Computação**, atuo em todas as etapas do projeto — de wireframes ao produto final — priorizando usabilidade e performance.
 
-Tenho experiência em HTML, CSS, JavaScript, PHP, Python e SQL. Trabalho com design responsivo, manipulação de DOM e prototipação no Figma. Possuo inglês A2, permitindo colaborar em projetos de empresas multinacionais.
+Tenho experiência em HTML, CSS, JavaScript, **PHP**, **Python** e **SQL**. Trabalho com design responsivo, **manipulação de DOM** e prototipação no **Figma**. Possuo **inglês** A2, permitindo colaborar em projetos de empresas multinacionais.
 
 Estou sempre aprendendo novas tecnologias para entregar mais valor em cada projeto.
 
